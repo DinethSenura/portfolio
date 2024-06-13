@@ -1,8 +1,12 @@
 # portfolio
-<img width="902" alt="Screenshot 2024-06-13 183138" src="https://github.com/DinethSenura/portfolio/assets/100292025/71d81018-49e0-4b63-81a2-1d0bce83a7ae">
 
-<img width="890" alt="Screenshot 2024-06-13 183226" src="https://github.com/DinethSenura/portfolio/assets/100292025/7564aafb-1cce-4da1-8b3d-e37dc6471d00">
+<img width="875" alt="Screenshot 2024-06-13 183138" src="https://github.com/DinethSenura/portfolio/assets/100292025/eb48da8e-f9b9-4c6a-8e91-d447c9c2b507">
 
-<img width="884" alt="Screenshot 2024-06-13 183308" src="https://github.com/DinethSenura/portfolio/assets/100292025/668d8f01-89cf-4901-8335-9f09e169d475">
 
-<img width="890" alt="Screenshot 2024-06-13 183349" src="https://github.com/DinethSenura/portfolio/assets/100292025/656935ad-5ab8-4ba3-a7e1-85f849630771">
+<img width="875" alt="Screenshot 2024-06-13 183226" src="https://github.com/DinethSenura/portfolio/assets/100292025/7623f470-7b84-4dbc-83b0-ff9bf83aef52">
+
+
+<img width="875" alt="Screenshot 2024-06-13 183308" src="https://github.com/DinethSenura/portfolio/assets/100292025/28a2dd3a-86ff-49ed-8cd4-501fe25dca5d">
+
+
+<img width="875" alt="Screenshot 2024-06-13 183349" src="https://github.com/DinethSenura/portfolio/assets/100292025/a3687b02-0cc5-42ba-83ac-6e5252400f2b">
